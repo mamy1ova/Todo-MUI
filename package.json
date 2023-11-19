@@ -2,7 +2,7 @@
   "name": "99-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mamy1ova.github.io/Registration-Form",
+  "homepage": "http://mamy1ova.github.io/Todo-MUI",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
