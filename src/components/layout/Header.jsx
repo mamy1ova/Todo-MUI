@@ -2,12 +2,12 @@ import React from "react";
 import { BiLogOut } from "react-icons/bi";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import DarkMode from "../DarkMode/DarkMode";
+import DarkMode from "../darkMode/DarkMode";
 
 const Header = () => {
   return (
     <StyledHeader>
-      <Link to="*">
+      <Link to="/">
         <BiLogOut />
       </Link>
       <DarkMode />
