@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Todo-MUI/static/css/main.963fe647.css",
-    "main.js": "/Todo-MUI/static/js/main.6f37d47f.js",
+    "main.js": "/Todo-MUI/static/js/main.5a3de718.js",
     "static/media/Sun.svg": "/Todo-MUI/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
     "static/media/Moon.svg": "/Todo-MUI/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
     "index.html": "/Todo-MUI/index.html",
     "main.963fe647.css.map": "/Todo-MUI/static/css/main.963fe647.css.map",
-    "main.6f37d47f.js.map": "/Todo-MUI/static/js/main.6f37d47f.js.map"
+    "main.5a3de718.js.map": "/Todo-MUI/static/js/main.5a3de718.js.map"
   },
   "entrypoints": [
     "static/css/main.963fe647.css",
-    "static/js/main.6f37d47f.js"
+    "static/js/main.5a3de718.js"
   ]
 }
